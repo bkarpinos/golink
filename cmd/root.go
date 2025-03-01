@@ -13,9 +13,9 @@ import (
 	"syscall"
 	"time"
 
-	"golink/internal/link"
-	"golink/internal/server"
-	"golink/internal/storage"
+	"github.com/bkarpinos/golink/internal/link"
+	"github.com/bkarpinos/golink/internal/server"
+	"github.com/bkarpinos/golink/internal/storage"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

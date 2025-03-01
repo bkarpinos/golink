@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"golink/internal/link"
-	"golink/internal/storage"
+	"github.com/bkarpinos/golink/internal/link"
+	"github.com/bkarpinos/golink/internal/storage"
 )
 
 // Server represents the HTTP server for go links
