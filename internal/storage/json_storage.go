@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"golink/internal/link"
+	"github.com/bkarpinos/golink/internal/link"
 
 	"github.com/fsnotify/fsnotify"
 )
